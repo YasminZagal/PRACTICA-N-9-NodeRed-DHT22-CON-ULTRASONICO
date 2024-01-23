@@ -280,13 +280,12 @@ return msg;
    
 ### Instrucciones de operación
 1. Nos vamos a nuestro wokwi en donde nuestro simulador ya esta corriendo
-![](https://github.com/YasminZagal/PRACTICA-N-8-NodeRed-CON-DHT22/blob/main/resultado%203%20esp32.png)
-
+![](https://github.com/YasminZagal/PRACTICA-N-9-NodeRed-DHT22-CON-ULTRASONICO/blob/main/resultado%201.3.png)
 
 ## Resultados
 
 A continuación se puede observar una vista previa del resultado del flow2 y la interaccion con el wokwi .
-![](https://github.com/YasminZagal/PRACTICA-N-9-NodeRed-DHT22-CON-ULTRASONICO/blob/main/resultado%201.3.png)
+
 ![](https://github.com/YasminZagal/PRACTICA-N-9-NodeRed-DHT22-CON-ULTRASONICO/blob/main/resultado%201.1.png)
 ![](https://github.com/YasminZagal/PRACTICA-N-9-NodeRed-DHT22-CON-ULTRASONICO/blob/main/resultado%201.2.png)
 
